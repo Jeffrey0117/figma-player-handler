@@ -1,5 +1,5 @@
-# figma-player-handler
+# Player-handler-userscript
 Just a simple player handler
 
-## Why
+## What is this?
 A lightweight handler for content access.  
