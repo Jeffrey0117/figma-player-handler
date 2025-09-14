@@ -1,2 +1,5 @@
 # figma-player-handler
-just a simple player handler
+Just a simple player handler
+
+## Why
+A lightweight handler for content access.  
